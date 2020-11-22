@@ -1,0 +1,4 @@
+[submodule "winsa24.github.io"]
+	path = winsa24.github.io
+	url = https://github.com/winsa24/winsa24.github.io.git
+	branch = main
